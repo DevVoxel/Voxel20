@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=plastic&logo=gatsby&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastice&logo=nodedotjs&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<br/>
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 <!--   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
@@ -66,6 +67,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Voxel20&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue" />
 </a>
 
 <br/>
