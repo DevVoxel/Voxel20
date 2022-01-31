@@ -33,14 +33,15 @@ Here are some ideas to get you started:
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E)
+  ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastice&logo=nodedotjs&logoColor=white)
   ![FontAwesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=plastic&logo=fontawesome&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
   ![NextJS](https://img.shields.io/badge/next.js-000000?style=plastic&logo=nextdotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
   ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=plastic&logo=gatsby&logoColor=white)
-  ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=plastic&logo=jquery&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastice&logo=nodedotjs&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
 <!--   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
@@ -72,7 +73,7 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.aidensmith.dev/"><img alt="Website" src=""></a>
-<a href="https://www.linkedin.com/in/aiden-smith-1960631bb/"><img alt="LinkedIn" src=""></a>
-<a href="https://twitter.com/DevVoxel"><img alt="Twitter" src=""></a>
+<a href="https://www.aidensmith.dev/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/aiden-smith-1960631bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/DevVoxel"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
