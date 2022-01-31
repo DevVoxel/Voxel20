@@ -1,3 +1,3 @@
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Voxel20&layout=compact)](https://github.com/Voxel20/github-readme-stats)
+  <a href="https://www.linkedin.com/in/aiden-smith-1960631bb/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
