@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=plastic&logo=Inkscape&logoColor=white)
 
 <br/>
-
+![](https://raw.githubusercontent.com/Voxel20/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/Voxel20/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/4-productive-time.svg)
 
 [![](https://raw.githubusercontent.com/Voxel20/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/Voxel20/github-profile-summary-cards)
